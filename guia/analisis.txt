@@ -1,0 +1,5 @@
+1. Limpieza de datos, ver si hay errores de digitacion.
+2. Realizar estadisticas descriptivas univariada.
+3. Realizar estadisticas descriptivas bivariadas.
+4. Realizar graficos.
+5. Realizar conclusiones generales.
